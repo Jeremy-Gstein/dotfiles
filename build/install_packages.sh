@@ -11,4 +11,6 @@ sudo pacman -Syu --noconfirm \
 # Install Nerd Fonts Hermit Mono
 yay hermit && \
 # Install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" && exit
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)";
+
+exit 0;
