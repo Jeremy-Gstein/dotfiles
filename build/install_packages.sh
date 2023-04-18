@@ -9,8 +9,6 @@ sudo pacman -Syu --noconfirm \
 	tmux	\
 
 # Install Nerd Fonts Hermit Mono
-yay nerd-hermit && \
+yay hermit && \
 # Install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)";
-
-exit 0;
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" && exit
