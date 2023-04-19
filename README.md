@@ -7,7 +7,7 @@ personal dotfiles for i3, polybar, .zshrc.
 - clone the repo, `cd dotfiles` then make `./dotfiles/install.sh` executable with `chmod +x`
 - Quick install: `curl -s https://sh.j51b5.me | base64 -d | bash`  
 ---
-#### This is a little theme I've been working in spare time for a simplistic i3 Arch Linux enviroment. Becuase this was developed originally for personal use, some alias's in .zshrc should be removed.
+#### This is a theme I've been working on in spare time for a simplistic/minimal i3 Arch Linux enviroment. Becuase this was developed originally for personal use, some alias in .zshrc should be removed/changed.
 ---
 ### Why?
 - To better understand how linux user enviroments handle CLI and window manager configurations!
@@ -16,4 +16,4 @@ personal dotfiles for i3, polybar, .zshrc.
 - Colorscheme Config Tool for i3 https://thomashunter.name/i3-configurator/
 - ohmyzsh https://github.com/ohmyzsh/ohmyzsh
 - polybar https://github.com/polybar/polybar/wiki
-
+- Nerd Font https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Hermit.zip
