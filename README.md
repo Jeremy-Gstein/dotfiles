@@ -12,5 +12,8 @@ personal dotfiles for i3, polybar, .zshrc.
 ### Why?
 - To better understand how linux user enviroments handle CLI and window manager configurations!
 ---
-### ToDo
-- Add links to documentation/resources for utilities used (i3, polybar, etc...)
+### References/Documentation:
+- Colorscheme Config Tool for i3 https://thomashunter.name/i3-configurator/
+- ohmyzsh https://github.com/ohmyzsh/ohmyzsh
+- polybar https://github.com/polybar/polybar/wiki
+
